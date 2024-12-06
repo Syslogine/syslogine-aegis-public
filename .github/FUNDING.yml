@@ -1,0 +1,18 @@
+# FUNDING.yml for Syslogine Aegis Public Repository
+
+# GitHub Sponsors (if enabled)
+github: syslogine
+
+# Open Collective (community-driven funding platform)
+open_collective: syslogine-aegis
+
+# PayPal (for one-time donations)
+paypal: sales@syslogine.com
+
+# Buy Me a Coffee (simple donation platform)
+buymeacoffee: syslogine
+
+# Custom URL (e.g., for enterprise sponsorship inquiries)
+custom:
+  - url: https://syslogine.com/sponsorship
+    description: Enterprise Sponsorship Opportunities
