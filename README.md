@@ -83,24 +83,28 @@ Syslogine Aegis is engineered for industries demanding the highest levels of sec
 | Pre-Boot Authentication                        | ✔️ Advanced (GRUB & TPM) | ❌ Basic GRUB             | ✔️ Secure Boot            | ❌ Limited                | ✔️ Trusted Boot                   |
 | Data Isolation for VMs                         | ✔️ AI-Driven Policies    | ✔️ VM Native             | ✔️ Hyper-V                | ❌ Limited                | ✔️ KVM Native                     |
 
-| **Enterprise Features**                        |                          |                            |                            |                           |                                     |
+| **Enterprise Features**                        | **Syslogine Aegis**      | **Linux (Ubuntu)**         | **Windows Server**         | **macOS**                 | **Red Hat Enterprise Linux (RHEL)** |
+|------------------------------------------------|--------------------------|----------------------------|----------------------------|---------------------------|-------------------------------------|
 | Compliance Automation (GDPR, HIPAA, ISO)       | ✔️ Built-In Templates    | ❌ Manual                 | ✔️ Predefined Tools       | ❌ None                  | ✔️ Pre-Configured                 |
 | Automated Patch Management                     | ✔️ AI-Driven Updates     | ✔️ Manual Tools          | ✔️ SCCM Integration       | ❌ Manual Updates         | ✔️ YUM/DNF Automatic Updates      |
 | Support for Hybrid Cloud Deployments           | ✔️ Seamless              | ✔️ Partial                | ✔️ Azure Ready            | ❌ Limited                | ✔️ Fully Supported                |
 | Role-Based Access Control (RBAC)               | ✔️ Enterprise-Class       | ❌ Limited               | ✔️ Active Directory       | ❌ None                  | ✔️ Extensive                       |
 
-| **Developer Features**                         |                          |                            |                            |                           |                                     |
-| Integrated Development Tools                   | ✔️ Comprehensive         | ✔️ IDE Friendly          | ✔️ VS Studio             | ✔️ Xcode Built-In        | ✔️ Developer Suite                |
+| **Developer Features**                         | **Syslogine Aegis**      | **Linux (Ubuntu)**         | **Windows Server**         | **macOS**                 | **Red Hat Enterprise Linux (RHEL)** |
+|------------------------------------------------|--------------------------|----------------------------|----------------------------|---------------------------|-------------------------------------|
+| Integrated Development Tools                   | ✔️ Comprehensive         | ✔️ IDE Friendly          | ✔️ Visual Studio          | ✔️ Xcode Built-In        | ✔️ Developer Suite                |
 | Cross-Platform Development                     | ✔️ Seamless              | ✔️ Available             | ✔️ Limited to Windows    | ✔️ Apple Ecosystem       | ✔️ Extensive (Containerized)      |
 | Native CI/CD Support                           | ✔️ Pre-Built Pipelines   | ❌ Third-Party Required   | ✔️ Jenkins Integration    | ❌ None                  | ✔️ Jenkins/Docker Native           |
 | SDKs for Security Protocols                    | ✔️ Advanced Libraries    | ❌ Minimal               | ✔️ Basic API Tools       | ❌ Limited                | ✔️ Extensive Libraries            |
 
-| **Usability and User Experience**              |                          |                            |                            |                           |                                     |
+| **Usability and User Experience**              | **Syslogine Aegis**      | **Linux (Ubuntu)**         | **Windows Server**         | **macOS**                 | **Red Hat Enterprise Linux (RHEL)** |
+|------------------------------------------------|--------------------------|----------------------------|----------------------------|---------------------------|-------------------------------------|
 | GUI Design                                     | ✔️ Intuitive             | ❌ Basic GNOME/KDE       | ✔️ User/Admin Split      | ✔️ Sleek Interface       | ❌ Admin Focused                   |
 | Learning Curve for New Users                   | ✔️ Low Barrier           | ❌ Steep                 | ✔️ Moderate              | ✔️ Minimal               | ❌ Enterprise Only                 |
 | Community Support                              | ✔️ Active                | ✔️ Extensive             | ✔️ Paid Support          | ❌ Limited Community      | ✔️ Subscription                    |
 
-| **Cost**                                       |                          |                            |                            |                           |                                     |
+| **Cost**                                       | **Syslogine Aegis**      | **Linux (Ubuntu)**         | **Windows Server**         | **macOS**                 | **Red Hat Enterprise Linux (RHEL)** |
+|------------------------------------------------|--------------------------|----------------------------|----------------------------|---------------------------|-------------------------------------|
 | Licensing Model                                | Open-Source + Enterprise | Open-Source               | Paid                      | Paid                     | Subscription-Based                 |
 | TCO (Total Cost of Ownership)                  | Low                      | Low                       | High                      | High                     | Medium                             |
 
