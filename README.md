@@ -83,12 +83,16 @@ Syslogine Aegis is engineered for industries demanding the highest levels of sec
 | Pre-Boot Authentication                        | ✔️ Advanced (GRUB & TPM) | ❌ Basic GRUB             | ✔️ Secure Boot            | ❌ Limited                | ✔️ Trusted Boot                   |
 | Data Isolation for VMs                         | ✔️ AI-Driven Policies    | ✔️ VM Native             | ✔️ Hyper-V                | ❌ Limited                | ✔️ KVM Native                     |
 
+---
+
 | **Enterprise Features**                        | **Syslogine Aegis**      | **Linux (Ubuntu)**         | **Windows Server**         | **macOS**                 | **Red Hat Enterprise Linux (RHEL)** |
 |------------------------------------------------|--------------------------|----------------------------|----------------------------|---------------------------|-------------------------------------|
 | Compliance Automation (GDPR, HIPAA, ISO)       | ✔️ Built-In Templates    | ❌ Manual                 | ✔️ Predefined Tools       | ❌ None                  | ✔️ Pre-Configured                 |
 | Automated Patch Management                     | ✔️ AI-Driven Updates     | ✔️ Manual Tools          | ✔️ SCCM Integration       | ❌ Manual Updates         | ✔️ YUM/DNF Automatic Updates      |
 | Support for Hybrid Cloud Deployments           | ✔️ Seamless              | ✔️ Partial                | ✔️ Azure Ready            | ❌ Limited                | ✔️ Fully Supported                |
 | Role-Based Access Control (RBAC)               | ✔️ Enterprise-Class       | ❌ Limited               | ✔️ Active Directory       | ❌ None                  | ✔️ Extensive                       |
+
+---
 
 | **Developer Features**                         | **Syslogine Aegis**      | **Linux (Ubuntu)**         | **Windows Server**         | **macOS**                 | **Red Hat Enterprise Linux (RHEL)** |
 |------------------------------------------------|--------------------------|----------------------------|----------------------------|---------------------------|-------------------------------------|
@@ -97,11 +101,15 @@ Syslogine Aegis is engineered for industries demanding the highest levels of sec
 | Native CI/CD Support                           | ✔️ Pre-Built Pipelines   | ❌ Third-Party Required   | ✔️ Jenkins Integration    | ❌ None                  | ✔️ Jenkins/Docker Native           |
 | SDKs for Security Protocols                    | ✔️ Advanced Libraries    | ❌ Minimal               | ✔️ Basic API Tools       | ❌ Limited                | ✔️ Extensive Libraries            |
 
+---
+
 | **Usability and User Experience**              | **Syslogine Aegis**      | **Linux (Ubuntu)**         | **Windows Server**         | **macOS**                 | **Red Hat Enterprise Linux (RHEL)** |
 |------------------------------------------------|--------------------------|----------------------------|----------------------------|---------------------------|-------------------------------------|
 | GUI Design                                     | ✔️ Intuitive             | ❌ Basic GNOME/KDE       | ✔️ User/Admin Split      | ✔️ Sleek Interface       | ❌ Admin Focused                   |
 | Learning Curve for New Users                   | ✔️ Low Barrier           | ❌ Steep                 | ✔️ Moderate              | ✔️ Minimal               | ❌ Enterprise Only                 |
 | Community Support                              | ✔️ Active                | ✔️ Extensive             | ✔️ Paid Support          | ❌ Limited Community      | ✔️ Subscription                    |
+
+---
 
 | **Cost**                                       | **Syslogine Aegis**      | **Linux (Ubuntu)**         | **Windows Server**         | **macOS**                 | **Red Hat Enterprise Linux (RHEL)** |
 |------------------------------------------------|--------------------------|----------------------------|----------------------------|---------------------------|-------------------------------------|
@@ -121,12 +129,16 @@ Syslogine Aegis is engineered for industries demanding the highest levels of sec
 | Predictive Threat Analysis                    | ✔️ AI-Driven            | ❌ None                  | ✔️ Defender ATP          | ❌ None                  | ✔️ Advanced ML-Based               |
 | Granular Audit Trails with Blockchain          | ✔️ Built-In Framework    | ❌ None                  | ❌ Third-Party Required  | ❌ None                  | ✔️ Emerging Feature                |
 
+---
+
 | **Integration Features**                      |                          |                            |                            |                           |                                     |
 | Kubernetes Integration                         | ✔️ Native                | ✔️ Available             | ❌ None                  | ❌ None                  | ✔️ OpenShift Integration           |
 | OpenAPI Specification Support                  | ✔️ Predefined            | ✔️ Libraries Available   | ✔️ Limited API Tools     | ❌ None                  | ✔️ Built-In                        |
 | CI/CD Pipelines                                | ✔️ Integrated Pipelines  | ❌ Requires Jenkins       | ✔️ Azure DevOps          | ❌ Limited                | ✔️ Jenkins/Kubernetes Native       |
 | Infrastructure-as-Code (IaC)                   | ✔️ Advanced (Ansible/Terraform) | ✔️ Basic (Terraform)    | ❌ Limited              | ❌ None                  | ✔️ Fully Supported                 |
 | Hybrid Cloud Storage                           | ✔️ Unified Access        | ✔️ Limited FS Tools      | ✔️ Azure Integration     | ❌ Limited               | ✔️ Scalable                         |
+
+---
 
 | **Use-Case Comparisons**                       |                          |                            |                            |                           |                                     |
 | Enterprise Data Centers                        | ✔️ Advanced Automation   | ✔️ Manual                | ✔️ Moderate             | ❌ Limited               | ✔️ Fully Optimized                 |
