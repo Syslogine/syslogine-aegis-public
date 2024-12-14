@@ -126,17 +126,23 @@ Syslogine Aegis is engineered for industries demanding the highest levels of sec
 | Post-Quantum Cryptography                      | ✔️ Supported Roadmap     | ❌ Experimental           | ❌ None                  | ❌ None                  | ✔️ Experimental                    |
 | AI-Powered System Management                   | ✔️ Built-In              | ❌ None                  | ✔️ Partial via Tools     | ❌ None                  | ✔️ Manual Tools                    |
 | Secure Containers (Confidential Computing)     | ✔️ Fully Supported       | ✔️ LXD/Docker            | ❌ Basic Docker          | ❌ Limited                | ✔️ Advanced (OpenShift)            |
-| Predictive Threat Analysis                    | ✔️ AI-Driven            | ❌ None                  | ✔️ Defender ATP          | ❌ None                  | ✔️ Advanced ML-Based               |
+| Predictive Threat Analysis                     | ✔️ AI-Driven            | ❌ None                  | ✔️ Defender ATP          | ❌ None                  | ✔️ Advanced ML-Based               |
 | Granular Audit Trails with Blockchain          | ✔️ Built-In Framework    | ❌ None                  | ❌ Third-Party Required  | ❌ None                  | ✔️ Emerging Feature                |
 
-| **Integration Features**                      |                          |                            |                            |                           |                                     |
+---
+
+| **Integration Features**                      | **Syslogine Aegis**      | **Linux (Ubuntu)**         | **Windows Server**         | **macOS**                 | **RHEL**                           |
+|------------------------------------------------|--------------------------|----------------------------|----------------------------|---------------------------|-------------------------------------|
 | Kubernetes Integration                         | ✔️ Native                | ✔️ Available             | ❌ None                  | ❌ None                  | ✔️ OpenShift Integration           |
 | OpenAPI Specification Support                  | ✔️ Predefined            | ✔️ Libraries Available   | ✔️ Limited API Tools     | ❌ None                  | ✔️ Built-In                        |
 | CI/CD Pipelines                                | ✔️ Integrated Pipelines  | ❌ Requires Jenkins       | ✔️ Azure DevOps          | ❌ Limited                | ✔️ Jenkins/Kubernetes Native       |
 | Infrastructure-as-Code (IaC)                   | ✔️ Advanced (Ansible/Terraform) | ✔️ Basic (Terraform)    | ❌ Limited              | ❌ None                  | ✔️ Fully Supported                 |
 | Hybrid Cloud Storage                           | ✔️ Unified Access        | ✔️ Limited FS Tools      | ✔️ Azure Integration     | ❌ Limited               | ✔️ Scalable                         |
 
-| **Use-Case Comparisons**                       |                          |                            |                            |                           |                                     |
+---
+
+| **Use-Case Comparisons**                       | **Syslogine Aegis**      | **Linux (Ubuntu)**         | **Windows Server**         | **macOS**                 | **RHEL**                           |
+|------------------------------------------------|--------------------------|----------------------------|----------------------------|---------------------------|-------------------------------------|
 | Enterprise Data Centers                        | ✔️ Advanced Automation   | ✔️ Manual                | ✔️ Moderate             | ❌ Limited               | ✔️ Fully Optimized                 |
 | IoT and Edge Devices                           | ✔️ Lightweight Configurations | ✔️ ARM Support          | ❌ None                  | ❌ None                  | ✔️ Minimal Deployment Available    |
 | AI/ML Workloads                                | ✔️ Optimized Libraries   | ✔️ TensorFlow/PyTorch   | ✔️ NVIDIA Integration   | ❌ None                  | ✔️ Red Hat AI-Ready                 |
