@@ -129,16 +129,12 @@ Syslogine Aegis is engineered for industries demanding the highest levels of sec
 | Predictive Threat Analysis                    | ✔️ AI-Driven            | ❌ None                  | ✔️ Defender ATP          | ❌ None                  | ✔️ Advanced ML-Based               |
 | Granular Audit Trails with Blockchain          | ✔️ Built-In Framework    | ❌ None                  | ❌ Third-Party Required  | ❌ None                  | ✔️ Emerging Feature                |
 
----
-
 | **Integration Features**                      |                          |                            |                            |                           |                                     |
 | Kubernetes Integration                         | ✔️ Native                | ✔️ Available             | ❌ None                  | ❌ None                  | ✔️ OpenShift Integration           |
 | OpenAPI Specification Support                  | ✔️ Predefined            | ✔️ Libraries Available   | ✔️ Limited API Tools     | ❌ None                  | ✔️ Built-In                        |
 | CI/CD Pipelines                                | ✔️ Integrated Pipelines  | ❌ Requires Jenkins       | ✔️ Azure DevOps          | ❌ Limited                | ✔️ Jenkins/Kubernetes Native       |
 | Infrastructure-as-Code (IaC)                   | ✔️ Advanced (Ansible/Terraform) | ✔️ Basic (Terraform)    | ❌ Limited              | ❌ None                  | ✔️ Fully Supported                 |
 | Hybrid Cloud Storage                           | ✔️ Unified Access        | ✔️ Limited FS Tools      | ✔️ Azure Integration     | ❌ Limited               | ✔️ Scalable                         |
-
----
 
 | **Use-Case Comparisons**                       |                          |                            |                            |                           |                                     |
 | Enterprise Data Centers                        | ✔️ Advanced Automation   | ✔️ Manual                | ✔️ Moderate             | ❌ Limited               | ✔️ Fully Optimized                 |
